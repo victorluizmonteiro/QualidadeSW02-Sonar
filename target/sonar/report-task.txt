@@ -1,0 +1,6 @@
+projectKey=br.com.fiap.regras:regras
+serverUrl=http://localhost:9000
+serverVersion=7.1.0.11001
+dashboardUrl=http://localhost:9000/dashboard/index/br.com.fiap.regras:regras
+ceTaskId=AWLu6908dhTUycCosZKR
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWLu6908dhTUycCosZKR
